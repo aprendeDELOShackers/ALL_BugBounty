@@ -1,12 +1,5 @@
 # ALL_BugBounty
 scheat sheet
-# All about bug bounty
-These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
-
-![](https://img.shields.io/github/issues/daffainfo/AllAboutBugBounty)
-![](https://img.shields.io/github/forks/daffainfo/AllAboutBugBounty)
-![](https://img.shields.io/github/stars/daffainfo/AllAboutBugBounty)
-![](https://img.shields.io/github/last-commit/daffainfo/AllAboutBugBounty)
 
 ## List
 - [Business Logic Errors](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Business%20Logic%20Errors.md)
@@ -48,7 +41,7 @@ These are my bug bounty notes that I have gathered from various sources, you can
 - [Password Reset Flaws](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/Password%20Reset%20Flaws.md)
 - [Tabnabbing](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/Tabnabbing.md)
 
-## Technologies
+##_Technologies_
 - [Grafana](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Grafana.md)
 - [HAProxy](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/HAProxy.md)
 - [Jira](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Jira.md)
@@ -56,7 +49,7 @@ These are my bug bounty notes that I have gathered from various sources, you can
 - [Moodle](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Moodle.md)
 - [Nginx](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Nginx.md)
 
-## Reconnaissance
+## _Reconnaissance_
 - [Scope Based Recon](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Scope.md)
 - [Github Dorks](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Github%20Dorks.md)
 - [Google Dorks](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Google%20Dorks.md)
