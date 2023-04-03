@@ -1,7 +1,6 @@
-# ALL_BugBounty
-scheat sheet
+# _ALL_BugBounty "scheat sheet"_
 
-## List
+## _List
 - [Business Logic Errors](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Business%20Logic%20Errors.md)
 - [Cross Site Request Forgery (CSRF)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Cross%20Site%20Request%20Forgery.md)
 - [Cross Site Scripting (XSS)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Cross%20Site%20Scripting.md)
@@ -16,7 +15,7 @@ scheat sheet
 - [Open Redirect](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Open%20Redirect.md)
 - [Web Cache Poisoning](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Web%20Cache%20Poisoning.md)
 
-## List Bypass
+## _List Bypass_
 - [Bypass 2FA](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Bypass/Bypass%202FA.md)
 - [Bypass 403](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Bypass/Bypass%20403.md)
 - [Bypass 304](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Bypass/Bypass%20304.md)
@@ -24,14 +23,14 @@ scheat sheet
 - [Bypass Captcha](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Bypass/Bypass%20Captcha.md)
 - [Bypass File Upload](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Bypass/Bypass%20File%20Upload.md)
 
-## List CMS
+## _List CMS_
 - [WordPress](https://github.com/daffainfo/AllAboutBugBounty/blob/master/CMS/WordPress.md)
 
-## List Framework
+## _List Framework_
 - [Laravel](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Framework/Laravel.md)
 - [Zend](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Framework/Zend.md)
 
-## Miscellaneous
+## _Miscellaneous_
 - [Account Takeover](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/Account%20Takeover.md)
 - [Broken Link Hijacking](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/Broken%20Link%20Hijacking.md)
 - [Default Credentials](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/Default%20Credentials.md)
@@ -41,7 +40,7 @@ scheat sheet
 - [Password Reset Flaws](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/Password%20Reset%20Flaws.md)
 - [Tabnabbing](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/Tabnabbing.md)
 
-##_Technologies_
+## _Technologies_
 - [Grafana](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Grafana.md)
 - [HAProxy](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/HAProxy.md)
 - [Jira](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Jira.md)
@@ -54,5 +53,3 @@ scheat sheet
 - [Github Dorks](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Github%20Dorks.md)
 - [Google Dorks](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Google%20Dorks.md)
 - [Shodan Dorks](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Shodan%20Dorks.md)
-
-## Coming Soon!
