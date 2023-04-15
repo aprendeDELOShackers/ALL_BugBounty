@@ -1,6 +1,6 @@
 # _ALL_BugBounty "scheat sheet"_
 
-## _List
+## _List_
 - [Business Logic Errors](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Business%20Logic%20Errors.md)
 - [Cross Site Request Forgery (CSRF)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Cross%20Site%20Request%20Forgery.md)
 - [Cross Site Scripting (XSS)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Cross%20Site%20Scripting.md)
@@ -8,9 +8,9 @@
 - [Exposed Source Code](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Exposed%20Source%20Code.md)
 - [Host Header Injection](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Host%20Header%20Injection.md)
 - [Insecure Direct Object References (IDOR)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Insecure%20Direct%20Object%20References.md)
-- Local File Inclusion (SOON)
+- [Local File Inclusion (SOON)
 - [NoSQL Injection](https://github.com/daffainfo/AllAboutBugBounty/blob/master/NoSQL%20Injection.md)
-- SQL Injection (SOON)
+- [SQL Injection (SOON)
 - [OAuth Misconfiguration](https://github.com/daffainfo/AllAboutBugBounty/blob/master/OAuth%20Misconfiguration.md)
 - [Open Redirect](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Open%20Redirect.md)
 - [Web Cache Poisoning](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Web%20Cache%20Poisoning.md)
